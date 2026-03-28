@@ -2,22 +2,22 @@
 
 **清水正行**
 
-💻 フリーランスのプログラマ
+   フリーランスのプログラマ
 
 ### 🛠️ スキル
-+ 📊 データビジュアライゼーション
-+ 🌍 GIS
++ データビジュアライゼーション
++ GIS
 
 ### 💡 技術スタック
 
-**🗣️ 言語**
+**言語**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**🖥️ フロントエンド**
+**フロントエンド**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
@@ -25,13 +25,13 @@
 ![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=three.js&logoColor=white)
 ![Deck.gl](https://img.shields.io/badge/Deck.gl-29ABE2?style=flat-square&logoColor=white)
 
-**🗄️ データベース**
+**データベース**
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
 
-**☁️ クラウド / プラットフォーム**
+**クラウド / プラットフォーム**
 
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
