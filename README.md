@@ -4,9 +4,6 @@
 
 💻 フリーランスのプログラマ
 
-### 📬 連絡先
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/_shimizu) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/xxshimizu)
-
 ### 🛠️ スキル
 + 📊 データビジュアライゼーション
 + 🌍 GIS
@@ -42,15 +39,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=shimizu&show_icons=true&theme=default" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimizu&layout=compact&theme=default" height="165" />
-</p>
 
 ---
 
