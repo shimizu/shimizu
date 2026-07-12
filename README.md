@@ -56,14 +56,19 @@
 + [FRED Credit Stress Monitor](https://shimizu.github.io/FRED-credit-stress-monitor/)
    + FREDの指標を使った信用リスクを表すダッシュボード 
 
-### 🔧 Data Preparation Tools
++ [PortWath dashboard](https://shimizu.github.io/portwatch-dashboard/)
+   + IMFのPort Wath データを用いて港とチョークポイントを監視するダッシュボード
 
-+ [Gather Data Catalog](https://shimizu.github.io/gather_data_catalog/)
-   + AIエージェントを使ってデータカタログを作成するCLIツール
-+ [Gather Worldbank Data](https://github.com/shimizu/gather_worldbank_data/)
-   + AIエージェントを使ってworldbankからデータを集めるツール
+### 🔧 AI Tools
+
+
++ [e-stat web AI Agent](https://shimizu.github.io/e-Stat-Web-AI-Agent/)
+   + フロントエンドAIを使ってe-statからデータを取得し分析させる
++ [WebGIS AI Agent](https://shimizu.github.io/web-gis-ai-agent/)
+   + WebGISを操作するブラウザベースのAIエージェント
 
 ### 🎮️ Games
 
 + [japan Shape Memory Game](https://shimizu.github.io/japan-shape-memory-game/)
    + 日本の都道府県・市区町村の形あてメモリーゲーム(神経衰弱)
+
