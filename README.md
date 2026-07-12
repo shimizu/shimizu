@@ -78,9 +78,7 @@
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shimizu&show_icons=true&hide_border=true&bg_color=00000000&title_color=00B4D8&icon_color=01BAEF&text_color=8B949E&rank_icon=github)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shimizu&layout=compact&hide_border=true&bg_color=00000000&title_color=00B4D8&text_color=8B949E)
+[![GitHub contribution chart](https://ghchart.rshah.org/00B4D8/shimizu)](https://github.com/shimizu)
 
 </div>
 
