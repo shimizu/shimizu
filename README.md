@@ -43,6 +43,7 @@
 
 | Project | Description |
 | :--- | :--- |
+| **[GLB Model Viewer](https://github.com/shimizu/glb-model-viewer)** | ローカルに保存したGLBモデルを一覧から探し、ブラウザ上で確認するためのビューアー |
 | **[Japan Shape Memory Game](https://shimizu.github.io/japan-shape-memory-game/)** | 都道府県・市区町村の形で遊ぶメモリーゲーム |
 
 ## Tech Stack
