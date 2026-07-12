@@ -1,74 +1,87 @@
-# 👤 Profile
+<div align="center">
 
-**清水正行**
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:0B4F6C,100:01BAEF&height=230&section=header&text=MASAYUKI%20SHIMIZU&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data%20Visualization%20%C3%97%20GIS%20%C3%97%20Web%20Engineering&descSize=16&descAlignY=58&animation=fadeIn)
 
-   フリーランスのプログラマ
+### データを、見える体験へ。
 
-### 🛠️ スキル
-+ データビジュアライゼーション
-+ GIS
+地理空間データとデータビジュアライゼーションを軸に、<br>
+分析からインタラクティブなWeb体験まで設計・実装するフリーランスプログラマです。
 
-### 💡 技術スタック
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_WORKS-00B4D8?style=for-the-badge&logo=github&logoColor=white)](#featured-projects)
 
-**言語**
+</div>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+## Focus
 
-**フロントエンド**
+| DATA VISUALIZATION | GEOSPATIAL | INTERACTIVE WEB |
+| :--- | :--- | :--- |
+| 複雑なデータを、直感的に読める表現へ | GIS・地理空間分析を、実用的なツールへ | 操作して理解できる、体験型のUIへ |
+| `D3.js` `Dashboard` | `Deck.gl` `Earth Engine` | `React` `Three.js` |
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-000000?style=flat-square&logo=three.js&logoColor=white)
-![Deck.gl](https://img.shields.io/badge/Deck.gl-29ABE2?style=flat-square&logoColor=white)
+<a id="featured-projects"></a>
 
-**データベース**
+## Featured Projects
 
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+### Geospatial
 
-**クラウド / プラットフォーム**
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[d3-thematika](https://shimizu.github.io/d3-thematika/)** | D3.jsで主題図を作成するためのラッパーライブラリ | `D3.js` `GIS` |
+| **[Geo Circle Export](https://shimizu.github.io/geo_circle_export/)** | 地図上に指定半径の円を作成・出力するツール | `WebGIS` `GeoJSON` |
+| **[Geo Buffer Export](https://shimizu.github.io/geo_buffer_export/)** | 選択した国から任意距離のバッファを作成するツール | `WebGIS` `GeoJSON` |
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white)
+### Data & AI
 
----
+| Project | Description | Category |
+| :--- | :--- | :--- |
+| **[FRED Credit Stress Monitor](https://shimizu.github.io/FRED-credit-stress-monitor/)** | FRED指標から信用リスクを可視化するダッシュボード | `Dashboard` |
+| **[PortWatch Dashboard](https://shimizu.github.io/portwatch-dashboard/)** | IMF PortWatchデータで港とチョークポイントを監視 | `Dashboard` |
+| **[e-Stat Web AI Agent](https://shimizu.github.io/e-Stat-Web-AI-Agent/)** | AIがe-Statからデータを取得・分析するブラウザアプリ | `AI Agent` |
+| **[WebGIS AI Agent](https://shimizu.github.io/web-gis-ai-agent/)** | WebGISを操作するブラウザベースのAIエージェント | `AI Agent` |
 
-## 🚀 作成したツール
+### Experimental
 
+| Project | Description |
+| :--- | :--- |
+| **[Japan Shape Memory Game](https://shimizu.github.io/japan-shape-memory-game/)** | 都道府県・市区町村の形で遊ぶメモリーゲーム |
 
-### 🗺️ GIS
+## Tech Stack
 
-+ [d3-thematika](https://shimizu.github.io/d3-thematika/)
-   + D3.jsを使用した主題図作成用のラッパーライブラリ
-+ [Geo Circle Export](https://shimizu.github.io/geo_circle_export/)
-   + 地図上に任意の半径(距離)の円を作成する 
-+ [Geo Buffer Export](https://shimizu.github.io/geo_buffer_export/)
-   + 地図上に選択した国の任意のバッファを作成する 
+<div align="center">
 
-### 📈 Dashboard
+**Languages & Runtime**
 
-+ [FRED Credit Stress Monitor](https://shimizu.github.io/FRED-credit-stress-monitor/)
-   + FREDの指標を使った信用リスクを表すダッシュボード 
+![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![R](https://img.shields.io/badge/R-111827?style=for-the-badge&logo=r&logoColor=75AADB)
 
-+ [PortWath dashboard](https://shimizu.github.io/portwatch-dashboard/)
-   + IMFのPort Wath データを用いて港とチョークポイントを監視するダッシュボード
+**Visualization & Frontend**
 
-### 🔧 AI Tools
+![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB)
+![D3.js](https://img.shields.io/badge/D3.js-111827?style=for-the-badge&logo=d3dotjs&logoColor=F9A03C)
+![Three.js](https://img.shields.io/badge/Three.js-111827?style=for-the-badge&logo=threedotjs&logoColor=white)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-111827?style=for-the-badge&logo=threedotjs&logoColor=white)
+![deck.gl](https://img.shields.io/badge/deck.gl-111827?style=for-the-badge&logo=webgl&logoColor=00B4D8)
 
+**Data & Cloud**
 
-+ [e-stat web AI Agent](https://shimizu.github.io/e-Stat-Web-AI-Agent/)
-   + フロントエンドAIを使ってe-statからデータを取得し分析させる
-+ [WebGIS AI Agent](https://shimizu.github.io/web-gis-ai-agent/)
-   + WebGISを操作するブラウザベースのAIエージェント
+![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=44A2D3)
+![DuckDB](https://img.shields.io/badge/DuckDB-111827?style=for-the-badge&logo=duckdb&logoColor=FFF000)
+![BigQuery](https://img.shields.io/badge/BigQuery-111827?style=for-the-badge&logo=googlebigquery&logoColor=669DF6)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
+![Google Earth Engine](https://img.shields.io/badge/Earth_Engine-111827?style=for-the-badge&logo=googleearthengine&logoColor=34A853)
 
-### 🎮️ Games
+</div>
 
-+ [japan Shape Memory Game](https://shimizu.github.io/japan-shape-memory-game/)
-   + 日本の都道府県・市区町村の形あてメモリーゲーム(神経衰弱)
+## GitHub Activity
 
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=shimizu&show_icons=true&hide_border=true&bg_color=00000000&title_color=00B4D8&icon_color=01BAEF&text_color=8B949E&rank_icon=github)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shimizu&layout=compact&hide_border=true&bg_color=00000000&title_color=00B4D8&text_color=8B949E)
+
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:01BAEF,55:0B4F6C,100:050816&height=110&section=footer)
