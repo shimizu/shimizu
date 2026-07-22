@@ -29,6 +29,9 @@
 | **[d3-thematika](https://shimizu.github.io/d3-thematika/)** | D3.jsで主題図を作成するためのラッパーライブラリ | `D3.js` `GIS` |
 | **[Geo Circle Export](https://shimizu.github.io/geo_circle_export/)** | 地図上に指定半径の円を作成・出力するツール | `WebGIS` `GeoJSON` |
 | **[Geo Buffer Export](https://shimizu.github.io/geo_buffer_export/)** | 選択した国から任意距離のバッファを作成するツール | `WebGIS` `GeoJSON` |
+| **[WebGIS AI Agent](https://shimizu.github.io/web-gis-ai-agent/)** | WebGISを操作するブラウザベースのAIエージェント | `AI Agent` |
+|[0DayMapChallenge](https://shimizu.github.io/30daymapchallenge2023/)|30日間毎日1枚ずつ地図を作成するチャレンジ |`ShowCase`|
+
 
 ### Data & AI
 
@@ -37,14 +40,15 @@
 | **[FRED Credit Stress Monitor](https://shimizu.github.io/FRED-credit-stress-monitor/)** | FRED指標から信用リスクを可視化するダッシュボード | `Dashboard` |
 | **[PortWatch Dashboard](https://shimizu.github.io/portwatch-dashboard/)** | IMF PortWatchデータで港とチョークポイントを監視 | `Dashboard` |
 | **[e-Stat Web AI Agent](https://shimizu.github.io/e-Stat-Web-AI-Agent/)** | AIがe-Statからデータを取得・分析するブラウザアプリ | `AI Agent` |
-| **[WebGIS AI Agent](https://shimizu.github.io/web-gis-ai-agent/)** | WebGISを操作するブラウザベースのAIエージェント | `AI Agent` |
 
 ### Experimental
 
-| Project | Description |
-| :--- | :--- |
-| **[GLB Model Viewer](https://github.com/shimizu/glb-model-viewer)** | ローカルに保存したGLBモデルを一覧から探し、ブラウザ上で確認するためのビューアー |
-| **[Japan Shape Memory Game](https://shimizu.github.io/japan-shape-memory-game/)** | 都道府県・市区町村の形で遊ぶメモリーゲーム |
+| Project | Description | Category |
+| :--- | :--- |  :--- | 
+| **[GLB Model Viewer](https://github.com/shimizu/glb-model-viewer)** | ローカルに保存したGLBモデルを一覧から探し、ブラウザ上で確認するためのビューアー | `Tool` |
+| **[Japan Shape Memory Game](https://shimizu.github.io/japan-shape-memory-game/)** | 都道府県・市区町村の形で遊ぶメモリーゲーム | `Game` |
+| [GIG-SCALE](https://shimizu.github.io/GIG-SCALE/) | ギグワークプラットフォーマーとなり資本主義の奴隷として利益を追求するゲーム| `Game`|
+
 
 ## Tech Stack
 
