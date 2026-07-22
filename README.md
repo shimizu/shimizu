@@ -30,7 +30,7 @@
 | **[Geo Circle Export](https://shimizu.github.io/geo_circle_export/)** | 地図上に指定半径の円を作成・出力するツール | `WebGIS` `GeoJSON` |
 | **[Geo Buffer Export](https://shimizu.github.io/geo_buffer_export/)** | 選択した国から任意距離のバッファを作成するツール | `WebGIS` `GeoJSON` |
 | **[WebGIS AI Agent](https://shimizu.github.io/web-gis-ai-agent/)** | WebGISを操作するブラウザベースのAIエージェント | `AI Agent` |
-|[0DayMapChallenge](https://shimizu.github.io/30daymapchallenge2023/)|30日間毎日1枚ずつ地図を作成するチャレンジ |`ShowCase`|
+|[30DayMapChallenge](https://shimizu.github.io/30daymapchallenge2023/)|30日間毎日1枚ずつ地図を作成するチャレンジ |`ShowCase`|
 
 
 ### Data & AI
@@ -46,6 +46,7 @@
 | Project | Description | Category |
 | :--- | :--- |  :--- | 
 | **[GLB Model Viewer](https://github.com/shimizu/glb-model-viewer)** | ローカルに保存したGLBモデルを一覧から探し、ブラウザ上で確認するためのビューアー | `Tool` |
+|[geopreview](https://github.com/shimizu/geopreview)| ターミナルで地理情報ファイルをプレビューするコマンドツール|`Tool` |
 | **[Japan Shape Memory Game](https://shimizu.github.io/japan-shape-memory-game/)** | 都道府県・市区町村の形で遊ぶメモリーゲーム | `Game` |
 | [GIG-SCALE](https://shimizu.github.io/GIG-SCALE/) | ギグワークプラットフォーマーとなり資本主義の奴隷として利益を追求するゲーム| `Game`|
 
