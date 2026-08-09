@@ -40,6 +40,7 @@
 | **[FRED Credit Stress Monitor](https://shimizu.github.io/FRED-credit-stress-monitor/)** | FRED指標から信用リスクを可視化するダッシュボード | `Dashboard` |
 | **[PortWatch Dashboard](https://shimizu.github.io/portwatch-dashboard/)** | IMF PortWatchデータで港とチョークポイントを監視 | `Dashboard` |
 | **[e-Stat Web AI Agent](https://shimizu.github.io/e-Stat-Web-AI-Agent/)** | AIがe-Statからデータを取得・分析するブラウザアプリ | `AI Agent` |
+| **[AI Discussion Arena](https://shimizu.github.io/ai-discussion-arena/)** | AIエージェント同士が資料やデータを元に議論するツール | `AI Agent` |
 
 ### Experimental
 
