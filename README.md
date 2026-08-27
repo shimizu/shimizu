@@ -52,6 +52,12 @@
 | [GIG-SCALE](https://shimizu.github.io/GIG-SCALE/) | ギグワークプラットフォーマーとなり資本主義の奴隷として利益を追求するゲーム| `Game`|
 
 
+## Slides
+
+| Slide | Description | Category |
+| :--- | :--- | :--- |
+| **[フロントエンドだけで作るAIエージェント](https://shimizu.github.io/slides/e-sate-web-AI-Agent/#/)** | Claude APIでジャーナリストのデータ収集を自動化する、ブラウザ完結型AIエージェントの作り方 | `Talk` |
+
 ## Tech Stack
 
 <div align="center">
