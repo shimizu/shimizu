@@ -24,11 +24,11 @@
 
 ### Geospatial
 
-| Project | Description | Stack |
+| Project | Description | Category |
 | :--- | :--- | :--- |
-| **[d3-thematika](https://shimizu.github.io/d3-thematika/)** | D3.jsで主題図を作成するためのラッパーライブラリ | `D3.js` `GIS` |
-| **[Geo Circle Export](https://shimizu.github.io/geo_circle_export/)** | 地図上に指定半径の円を作成・出力するツール | `WebGIS` `GeoJSON` |
-| **[Geo Buffer Export](https://shimizu.github.io/geo_buffer_export/)** | 選択した国から任意距離のバッファを作成するツール | `WebGIS` `GeoJSON` |
+| **[d3-thematika](https://shimizu.github.io/d3-thematika/)** | D3.jsで主題図を作成するためのラッパーライブラリ | `WebGIS` |
+| **[Geo Circle Export](https://shimizu.github.io/geo_circle_export/)** | 地図上に指定半径の円を作成・出力するツール | `WebGIS` |
+| **[Geo Buffer Export](https://shimizu.github.io/geo_buffer_export/)** | 選択した国から任意距離のバッファを作成するツール | `WebGIS` |
 | **[WebGIS AI Agent](https://shimizu.github.io/web-gis-ai-agent/)** | WebGISを操作するブラウザベースのAIエージェント | `AI Agent` |
 |[30DayMapChallenge](https://shimizu.github.io/30daymapchallenge2023/)|30日間毎日1枚ずつ地図を作成するチャレンジ |`ShowCase`|
 
